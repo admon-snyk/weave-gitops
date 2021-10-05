@@ -1,4 +1,4 @@
-module github.com/weaveworks/weave-gitops
+module github.com/admon-snyk/weave-gitops
 
 go 1.16
 
